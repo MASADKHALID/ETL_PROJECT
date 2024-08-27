@@ -1,0 +1,31 @@
+
+Memory updated
+Here’s the updated LinkedIn post draft:
+
+Hi there! 👋
+
+I'm thrilled to share an achievement as I continue my journey in the field of data engineering. I’m currently enrolled in the Data Engineering course at Saylani SMIIT under the guidance of Sir Qasim, where I’m diving deep into advanced data processing techniques.
+
+🚀 Recent Project Highlight: Advanced Data Processing and Reporting
+
+In one of my recent ETL projects, I worked on transforming an orders CSV file through various stages:
+
+🔍 Data Handling:
+
+Manipulated the CSV file using Python and pandas.
+Standardized column names, removed unnecessary columns, and converted the cleaned data back to CSV.
+💾 Database Integration:
+
+Created a table named df_orders in a database.
+Performed a bulk insert for further data analysis.
+📊 Data Analysis:
+
+Identified the top 10 products.
+Analyzed the top 5 products in each region.
+Summarized key insights on profit and sales.
+📈 Report Generation:
+
+Generated a detailed report using Power BI, turning raw data into valuable insights.
+This hands-on experience has significantly enhanced my skills in data manipulation, database management, and data visualization. I'm excited about the future and the endless possibilities in the world of data!
+
+#DataEngineering #ETL #DataScience #Python #PowerBI #DatabaseManagement #SaylaniSMIIT #Achievement
